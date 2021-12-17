@@ -3,3 +3,5 @@ burgers
 fries
 pizzas
 quaesedillas
+nuggets
+sandwiches
