@@ -1,1 +1,3 @@
-# suhish-menu.txt
+# welcome to suhish-menu.txt
+burgers
+fries
